@@ -1,0 +1,14 @@
+*.png
+*.wav
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.flv
+*.gif
+*.jpg
+*.svg
+*.txt
+venv/
+virtualenv/
+__pycache__/
