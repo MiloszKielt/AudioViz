@@ -3,6 +3,7 @@
 ## Requirements
 
  - Python installed on your device
+ - [Optionally] setup virtual environment via command like ```python -m venv venv```
  - Download dependencies through ```pip install -r requirements.txt```
  - You need a pre-recorded audio file (preferrably .wav format)
 
