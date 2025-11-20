@@ -9,7 +9,7 @@
 ## Running instructions
 
 In order to run the script, you need to run the following commmand:
-```python makemovie.py <audio_file_name>.wav```
+```python scripts/makemovie.py <audio_file_name>.wav```
 After that a new window will open with the plot of tha waveform playing live
 
 ## Current Issues
